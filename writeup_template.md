@@ -43,4 +43,4 @@ My pipeline consisted of:
 ### 3. Suggest possible improvements to your pipeline
 1. Apply filtering to highlight the white/yellow lanes.  i.e. increase contrast.
 1. change from kmeans clustering to handcoded program to improve speed of the program.
-1.
+1. Automatically detect and adjust the curves in the lane.
